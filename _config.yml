@@ -101,13 +101,9 @@ theme: yun
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
-
-
 
 deploy:
   type: git
   repo: https://github.com/azure2099/azure2099.github.io
-  branch: master 
+  branch: master
   message: Update Hexo Static Content
